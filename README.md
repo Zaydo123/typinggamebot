@@ -10,7 +10,7 @@ SLIDER: the slider can be adjusted before or after you finish the round of typin
 let me know of any bugs.
 
 
-requirements:
+**requirements:**
 
 pip install selenium
 
