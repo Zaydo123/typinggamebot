@@ -11,5 +11,7 @@ let me know of any bugs.
 
 
 requirements:
+
 pip install selenium
+
 pip install pyautogui
